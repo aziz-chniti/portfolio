@@ -4,7 +4,7 @@
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3.5rem;
-  --hue: 40;
+  --hue: 210;
   --first-color: hsl(var(--hue), 55%, 55%);
   --first-color-light: hsl(var(--hue), 55%, 65%);
   --first-color-alt: hsl(var(--hue), 50%, 50%);
