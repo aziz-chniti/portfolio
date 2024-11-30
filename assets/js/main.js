@@ -79,6 +79,7 @@ window.addEventListener('scroll', scrollUp)
 const sections = document.querySelectorAll('section[id]')
 
 
+
 const scrollActive = () => {
     const scrollDown = window.scrollY
 
@@ -112,3 +113,5 @@ sr.reveal(`.home_scroll`, {delay: 800})
 sr.reveal(`.work_card, .services_card`, {interval: 100})
 sr.reveal(`.about_content`, {origin: 'left'})
 sr.reveal(`.about_img`, {origin: 'left'})
+
+
