@@ -110,7 +110,7 @@ const sr = ScrollReveal({
   duration: 2500,
   delay: 400,
 });
-sr.reveal(`.home_data, .experience , .skills, .contact_container`);
+sr.reveal(`.home_data, .section_title, .experience , .skills, .contact_container`);
 sr.reveal(`.home_img`, { delay: 600 });
 sr.reveal(`.home_scroll`, { delay: 800 });
 sr.reveal(`.work_card, .services_card`, { interval: 100 });
