@@ -115,4 +115,3 @@ sr.reveal(`.home_img`, { delay: 600 });
 sr.reveal(`.home_scroll`, { delay: 800 });
 sr.reveal(`.work_card, .services_card`, { interval: 100 });
 sr.reveal(`.about_content`, { origin: "left" });
-sr.reveal(`.about_img`, { origin: "left" });
